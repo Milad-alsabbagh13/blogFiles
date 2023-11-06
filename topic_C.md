@@ -2,7 +2,7 @@
 
 ### Operating System, Application, and Firmware Patching
 
-<img src="./Patch.jpg" width="500px" height="300px">
+<img src="./imges/Patch.jpg" width="500px" height="300px">
 
 **Important patch management considerations include the following:**
 
