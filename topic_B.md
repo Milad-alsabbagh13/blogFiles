@@ -54,7 +54,7 @@ can be a practical approach to managing the attack surface. Passive discovery de
 
 seeks to define the "edge" of the network fully. It is easy to assume that the edge is composed only of Internet-facing servers. The edge is instead composed of every device with Internet connectivity. Assuming that attacks will occur from the Internet, anything accessible to it must be considered as part of the edge. The US Cybersecurity & Infrastructure Security Agency (CISA) identified that 90% of successful cyberattacks start with a phishing email. This fact underscores that an organization's edge is much broader than is often assumed. 
 <hr>
-<img src="./imges/reduce_services.wepb" alt="Image Alt Text">
+<img src="./imges/reduce_surface.webp" alt="Image Alt Text">
 
 
 ### <ins>Reducing the Attack Surface:</ins>
