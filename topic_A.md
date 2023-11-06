@@ -1,6 +1,6 @@
 # <p style="text-align:center"> Risk Responses </p>
 
-<img src="(https://github.com/Milad-alsabbagh13/blogFiles/blob/main/imges/unit_1.png)">
+<img src="./images/unit_1.jpg" alt="Image Alt Text">
 
 ### * Avoid
 <ins> Risk Avoidance:</ins> Often means that you stop doing an activity that is risk-bearing.
