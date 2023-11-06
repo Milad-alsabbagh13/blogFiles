@@ -1,4 +1,4 @@
-# <p style="text-align:center"> Risk Responses </p>
+### Risk Responses
 
 <img src="./imges/unit_1.png" alt="Image Alt Text">
 
